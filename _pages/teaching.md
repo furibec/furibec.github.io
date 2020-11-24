@@ -8,17 +8,17 @@ author_profile: true
 ## <span style="text-decoration: underline">Lectures</span>
 
 ### National University of Colombia at Manizales, Department of Civil Engineering
- -  *I - 2016:* Lecturer of the course: structural reliability (In Spanish).
- -  *I - 2016:* Lecturer of the course: [numerical methods applied to civil engineering](https://github.com/diegoandresalvarez/metodosnumericos) (In Spanish).
+ -  *I - 2016:* Lecturer of the course: Structural reliability (In Spanish).
+ -  *I - 2016:* Lecturer of the course: [Numerical methods applied to civil engineering](https://github.com/diegoandresalvarez/metodosnumericos) (In Spanish).
 
 
 ## <span style="text-decoration: underline">Tutorials/Seminars</span>
 
 ### Technical University of Denmark, Department of Applied Mathematics and Computer Science
- -  *II - 2020:* Organization of reading course on sampling methods for Bayesian inverse problems.
+ -  *II - 2020:* Organization of the reading course on sampling methods for Bayesian inverse problems.
 
 ### Technical University of Munich, Department of Civil and Environmental Engineering
- -  *Summer term 2019:* Organization of [reading group on stochastic methods in engineering](https://www.bgu.tum.de/era/teaching/courses-offered/). 
+ -  *Summer term 2019:* Organization of the [reading group on stochastic methods in engineering](https://www.bgu.tum.de/era/teaching/courses-offered/). 
  -  *Summer term 2018:* Tutorials in [advanced stochastic finite element methods](https://www.bgu.tum.de/era/teaching/courses-offered/).
  -  *Winter term 2017/18:* Tutorials in [structural reliability](https://www.bgu.tum.de/era/teaching/courses-offered/).
  -  *Winter term 2016/17:* Tutorials in [structural reliability](https://www.bgu.tum.de/era/teaching/courses-offered/).
