@@ -11,9 +11,6 @@ author_profile: true
 
 
 ## <span style="text-decoration: underline">Past</span>
-Summary map of past meetings:
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing"  ></iframe>
-
 
 ### 2019
  -  Visit & Talk @ [Section of Scientific Computing](https://www.compute.dtu.dk/english/research/Research-sections/SCO), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Kgs. Lyngby, Denmark. *(November 25-27, 2019)*
@@ -34,3 +31,6 @@ Summary map of past meetings:
 
 ### 2014
  -  Talk @ [7th Conference on Computational Stochastic Mechanics (CSM7)](https://www.unipa.it/Csm7/), Santorini, Greece. *(June 15-18, 2014)*
+
+## Summary map of past meetings
+<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing" ></iframe>
