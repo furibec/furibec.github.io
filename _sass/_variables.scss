@@ -19,7 +19,7 @@ $monospace                  : Consolas, Monaco, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -54,7 +54,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #ffffff;
-$background-color           : #ffffff;
+$background-color           : #f7f7ff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
