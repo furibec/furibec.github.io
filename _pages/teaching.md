@@ -27,9 +27,9 @@ author_profile: true
 ## <span style="text-decoration: underline">Supervised students</span>
 
 ### Master's theses (and study projects)
- -  *2018:* Junyi Jiang: Traditional and approximate Bayesian computations with applications to random fields. Technical University of Munich.
- -  *2018:* Alexander von Ramm (study project): Submodel selection in hydrological modeling: a Bayesian approach. Technical University of Munich.
- -  *2017:* Matthias Willer: Subset simulation and moving particles methods for reliability analysis. Technical University of Munich.
+ -  *2018:* Junyi Jiang: Traditional and approximate Bayesian computations with applications to random fields. @Technical University of Munich.
+ -  *2018:* Alexander von Ramm (study project): Submodel selection in hydrological modeling: a Bayesian approach. @Technical University of Munich.
+ -  *2017:* Matthias Willer: Subset simulation and moving particles methods for reliability analysis. @Technical University of Munich.
  
 ### Bachelor's theses
- -  *2019:* Adam Misik: Data mining based complexity reduction of system state data from electrical power nets. Technical University of Munich.
+ -  *2019:* Adam Misik: Data mining based complexity reduction of system state data from electrical power nets. @Technical University of Munich.
