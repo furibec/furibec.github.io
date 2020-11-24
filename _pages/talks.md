@@ -34,4 +34,4 @@ author_profile: true
 
 
 ## Summary map of past meetings:
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing"  ></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9" width="640" height="480"></iframe>

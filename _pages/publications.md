@@ -15,7 +15,7 @@ Find below a list of my publications.
 
 
 ### Articles in peer-reviewed journals
-[2] Felipe Uribe, Iason Papaioannou, Wolfgang Betz, Daniel Straub (2020): **Bayesian inference of random fields represented with the Karhunen-Loève expansion**. Computer Methods in Applied Mechanics and Engineering. 358, 112632y, [doi](https://doi.org/10.1016/j.cma.2019.112632).
+[2] Felipe Uribe, Iason Papaioannou, Wolfgang Betz, Daniel Straub (2020): **Bayesian inference of random fields represented with the Karhunen-Loève expansion**. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
 
 [1] Diego A. Alvarez, Felipe Uribe, Jorge E. Hurtado (2018): **Estimation of the lower and upper bounds on the probability of failure using subset simulation and random set theory**. Mechanical Systems and Signal Processing. 100, 782-801, [doi](https://doi.org/10.1016/j.ymssp.2017.07.040).
 
@@ -39,6 +39,6 @@ on Undertainty Modeling and Analysis (ISUMA). Ed. by Michael Beer, Siu-Kui Au, a
 
 
 ### Theses
-[2] Felipe Uribe (2015): **Probabilistic analysis of structures using stochastic finite elements.** Master's thesis, Universidad Nacional de Colombia at Manizales. Advisors: Dr. Diego A. Alvarez and Dr. Daniel Bedoya-Ruíz. ([full text](http://www.bdigital.unal.edu.co/51037/)) 
+- Felipe Uribe (2015): **Probabilistic analysis of structures using stochastic finite elements.** Master's thesis, Universidad Nacional de Colombia at Manizales. Advisors: Dr. Diego A. Alvarez and Dr. Daniel Bedoya-Ruíz. ([full text](http://www.bdigital.unal.edu.co/51037/)) 
 
-[1] Felipe Uribe (2011): **Implementation of simulation methods in structural reliability.** Bachelor's thesis (Civil Engineering), Universidad Nacional de Colombia at Manizales. Advisor: Dr. Diego A. Alvarez. ([full text](http://www.bdigital.unal.edu.co/6921/)) 
+- Felipe Uribe (2011): **Implementation of simulation methods in structural reliability.** Bachelor's thesis (Civil Engineering), Universidad Nacional de Colombia at Manizales. Advisor: Dr. Diego A. Alvarez. ([full text](http://www.bdigital.unal.edu.co/6921/)) 
