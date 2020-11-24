@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Welcome to my homepage!"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<hr>
 
 I am a Postdoctoral Researcher in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. I work with [Per Christian Hansen](http://www2.compute.dtu.dk/~pcha/) and [Yiqiu Dong](http://www2.compute.dtu.dk/~yido/Publications.html) under the *Villum Foundation* project [CUQI](https://www.compute.dtu.dk/english/cuqi) (Computational Uncertainty Quantification for Inverse problems). 
 
