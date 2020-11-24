@@ -5,12 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming
+## <span style="text-decoration: underline">Upcoming</span>
  - [Big Data Inverse Problems](https://www.birs.ca/events/2021/5-day-workshops/21w5079/), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *(April 18-23, 2021)*
  - [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), Virtual Conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
 
 
-## Past
+## <span style="text-decoration: underline">Past</span>
+Summary map of past meetings:
+<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing"  ></iframe>
 
 ### 2019
  -  Visit & Talk @ [Section of Scientific Computing](https://www.compute.dtu.dk/english/research/Research-sections/SCO), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Kgs. Lyngby, Denmark. *(November 25-27, 2019)*
@@ -31,7 +33,3 @@ author_profile: true
 
 ### 2014
  -  Talk @ [7th Conference on Computational Stochastic Mechanics (CSM7)](https://www.unipa.it/Csm7/), Santorini, Greece. *(June 15-18, 2014)*
-
-
-## Summary map of past meetings:
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing"  ></iframe>
