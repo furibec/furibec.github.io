@@ -31,6 +31,3 @@ author_profile: true
 
 ### 2014
  -  Talk @ [7th Conference on Computational Stochastic Mechanics (CSM7)](https://www.unipa.it/Csm7/), Santorini, Greece. *(June 15-18, 2014)*
-
-## Summary map of past meetings
-<iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing" ></iframe>
