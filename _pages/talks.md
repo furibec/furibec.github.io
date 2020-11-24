@@ -7,8 +7,9 @@ author_profile: true
 ---
 
 ## Upcoming
- - [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), VIRTUAL CONFERENCE | Originally scheduled in Fort Worth, Texas, U.S. *March 1-5, 2021*
  - [Big Data Inverse Problems](https://www.birs.ca/events/2021/5-day-workshops/21w5079/), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *April 18-23, 2021*
+ - [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), Virtual Conference | Originally scheduled in Fort Worth, Texas, U.S. *March 1-5, 2021*
+
 
 
 ## Past  
@@ -23,7 +24,7 @@ Map of past meetings:
 
 
 ### 2018
- -  Long-term stay @ UQ Group, Massachusetts Institute of Technology, U.S. *(September - December, 2018, with Youssef M. Marzouk)* 
+ -  Long-term stay @ UQ Group, Massachusetts Institute of Technology, Cambridge, U.S. *(September - December, 2018, with Youssef M. Marzouk)* 
  -  Talk @ [13th World Congress in Computational Mechanics (WCCM18).](http://www.wccm2018.org/), New York, U.S. *(July 22-27, 2018)* 
  -  Talk @ [8th Conference on Computational Stochastic Mechanics (CSM8)](https://www.unipa.it/strutture/csm8/), Paros, Greece. *(June 10-13, 2018)*
  -  Talk @ [GAMM Annual Meeting 2018](http://jahrestagung.gamm-ev.de/), Munich, Germany. *(March 19-23, 2018)*
