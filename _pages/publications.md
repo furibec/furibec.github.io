@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find below a list of my publications.
+Find below a list of my publications.
 
 
 ### Preprints
+[4] Felipe Uribe, Iason Papaioannou, Youssef M. Marzouk, Daniel Straub (2020): **Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation.** [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
+
+[3] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): **Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.** [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf)
 
 
 ### Articles in peer-reviewed journals
@@ -32,10 +35,10 @@ Reinforced Concrete (ICTRC). Ed. by Wolfgang Brameshuber. RILEM, pp. 91–102.
 [2] Diego A. Alvarez, Jorge E. Hurtado, Felipe Uribe (2014): **Estimation of the lower and upper probabilities of failure using random sets and subset simulation**. Proceedings of the 2nd International Conference on Vulnerability and Risk Analysis and Management (ICVRAM) and 6th International Symposium
 on Undertainty Modeling and Analysis (ISUMA). Ed. by Michael Beer, Siu-Kui Au, and Jim W. Hall. ASCE, pp. 905–914.
 
-[1] Felipe Uribe, Gilberto A. Ortiz, Diego A. Alvarez, Daniel Bedoya-Ruiz (2014): **Nonlinear modeling and fragility analysis of ferrocement structures**. Proceedings of the 7th International Conference on Computational Stochastic Mechanics (CSM7). Ed. by George Deodatis and Pol D. Spanos. Research Publishing Services, pp. 729–740.
+[1] Felipe Uribe, Gilberto A. Ortiz, Diego A. Alvarez, Daniel Bedoya-Ruíz (2014): **Nonlinear modeling and fragility analysis of ferrocement structures**. Proceedings of the 7th International Conference on Computational Stochastic Mechanics (CSM7). Ed. by George Deodatis and Pol D. Spanos. Research Publishing Services, pp. 729–740.
 
 
 ### Theses
-[2] Felipe Uribe (2015): **Probabilistic analysis of structures using stochastic finite elements.** Master's thesis, Universidad Nacional de Colombia at Manizales. Advisors: Dr. Diego A. Alvarez and Dr. Daniel Bedoya-Ruiz. ([full text](http://www.bdigital.unal.edu.co/51037/)) 
+[2] Felipe Uribe (2015): **Probabilistic analysis of structures using stochastic finite elements.** Master's thesis, Universidad Nacional de Colombia at Manizales. Advisors: Dr. Diego A. Alvarez and Dr. Daniel Bedoya-Ruíz. ([full text](http://www.bdigital.unal.edu.co/51037/)) 
 
 [1] Felipe Uribe (2011): **Implementation of simulation methods in structural reliability.** Bachelor's thesis (Civil Engineering), Universidad Nacional de Colombia at Manizales. Advisor: Dr. Diego A. Alvarez. ([full text](http://www.bdigital.unal.edu.co/6921/)) 
