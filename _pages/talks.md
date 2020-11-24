@@ -1,4 +1,3 @@
- 
 ---
 layout: archive
 title: "Meetings"
@@ -9,7 +8,6 @@ author_profile: true
 ## Upcoming
  - [Big Data Inverse Problems](https://www.birs.ca/events/2021/5-day-workshops/21w5079/), Banff International Research Station for Mathematical Innovation and Discovery, Alberta, Canada. *April 18-23, 2021*
  - [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), Virtual Conference | Originally scheduled in Fort Worth, Texas, U.S. *March 1-5, 2021*
-
 
 
 ## Past  
