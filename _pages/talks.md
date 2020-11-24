@@ -14,6 +14,7 @@ author_profile: true
 Summary map of past meetings:
 <iframe style="width: 100%; height: 380px;" src="https://www.google.com/maps/d/edit?mid=17jz8vzVQXIy2fwivRXie51Ab6ukNbHl9&usp=sharing"  ></iframe>
 
+
 ### 2019
  -  Visit & Talk @ [Section of Scientific Computing](https://www.compute.dtu.dk/english/research/Research-sections/SCO), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Kgs. Lyngby, Denmark. *(November 25-27, 2019)*
  -  Talk @ [39th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2019)](https://www.ipp.mpg.de/maxent2019), Garching b.M., Germany. *(June 30 - July 5, 2019)*

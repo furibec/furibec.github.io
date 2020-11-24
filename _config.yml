@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Felipe Uribe"
   avatar           : "photoa.jpg"
-  bio              : "Postdoctoral Researcher in Applied Mathematics"
+  bio              : "Postdoctoral Researcher at DTU Compute"
   location         : "Kgs. Lyngby, DK"
   employer         : "Technical University of Denmark"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-1010-8184"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
