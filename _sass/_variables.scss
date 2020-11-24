@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #1d2d40;
-$background-color           : #1d2d40;
+$body-color                 : #334253;
+$background-color           : #334253;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #eaeaea;
@@ -90,9 +90,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : mix(#000, $info-color, 15%) !default;
-$link-color-hover           : mix(#000, $link-color, 25%) !default;
-$link-color-visited         : mix(#fff, $link-color, 15%) !default;
+$link-color                 : #9be7d8;
+$link-color-hover           : #8bcfc2;
+$link-color-visited         : #7cb8ac;
 $masthead-link-color        : $primary-color !default;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
