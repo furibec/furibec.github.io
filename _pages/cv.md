@@ -24,6 +24,6 @@ Before moving to Munich as a doctoral student, I did my bachelor in Civil Engine
 
 
 ### Personal life
-In my personal life I am passionate about nature and arts: I enjoy hiking and wandering in forests and mountains. I have been practizing the art of Bonsai since 2010, and doing it more seriously since discovering [Bonsai Mirai](https://live.bonsaimirai.com/). For a couple of years now, I have also been practizing Yoga (Iyengar). More recently, I also started running.
+In my personal life, I am passionate about nature and arts: I enjoy hiking and wandering in forests and mountains. I have been practizing the art of Bonsai since 2010, and doing it more seriously since discovering [Bonsai Mirai](https://live.bonsaimirai.com/). For a couple of years now, I have also been practizing Yoga (Iyengar). Recently, I also started running.
 
-I also enjoy passively: cooking, art museums, concerts, films, and also oil painting.
+I also enjoy passively: cooking, films, art museums, and also oil painting.
