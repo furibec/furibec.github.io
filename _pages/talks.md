@@ -19,7 +19,7 @@ author_profile: true
 
 ### 2018
  -  Long-term stay @ [UQ Group](https://uqgroup.mit.edu/home), Massachusetts Institute of Technology, Cambridge, U.S. *(September - December, 2018, with Youssef M. Marzouk)* 
- -  Talk @ [13th World Congress in Computational Mechanics (WCCM18).](http://www.wccm2018.org/), New York, U.S. *(July 22-27, 2018)* 
+ -  Talk @ [13th World Congress in Computational Mechanics (WCCM18)](http://www.wccm2018.org/), New York, U.S. *(July 22-27, 2018)* 
  -  Talk @ [8th Conference on Computational Stochastic Mechanics (CSM8)](https://www.unipa.it/strutture/csm8/), Paros, Greece. *(June 10-13, 2018)*
  -  Talk @ [GAMM Annual Meeting 2018](https://jahrestagung.gamm-ev.de/index.php/2018/2018-annual-meeting), Munich, Germany. *(March 19-23, 2018)*
 
