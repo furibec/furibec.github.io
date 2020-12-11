@@ -17,5 +17,4 @@ My research interests lie at the interface of uncertainty quantification and com
 
 This homepage contains information about my research in [scientific journals](/publications/) and [meetings](/talks/). I also summarized my [teaching experience](/teaching/) and my [personal background](/cv/).
 
-
 <hr>
