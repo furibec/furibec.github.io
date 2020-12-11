@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find below a list of my publications.
-
 
 ## Preprints
 [4] Felipe Uribe, Iason Papaioannou, Youssef M. Marzouk, Daniel Straub (2020): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation.* [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
