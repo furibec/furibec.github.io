@@ -16,7 +16,7 @@ My research interests lie at the interface of uncertainty quantification and com
 <hr>
 
 ### News...
-- I am organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium in the SIAM [CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. The title is: *Advances in sampling methods and prior models for large-scale Bayesian inverse problems*.
+- I am organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) the mini-symposium: *Advances in sampling methods and prior models for large-scale Bayesian inverse problems*, for the SIAM [CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. 
 
 <hr>
 
