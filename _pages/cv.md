@@ -17,7 +17,7 @@ In December 2020, I earned a doctoral degree (*Doktor der Ingenieurwissenschafte
 Before moving to Munich, I did my bachelor in Civil Engineering and Master in Engineering at the [National University of Colombia at Manizales](https://unal.edu.co/en.html) under the supervision of [Diego A. Alvarez](https://github.com/diegoandresalvarez). My bachelor thesis was selected as the [best bachelor final project](http://www.pregrado.unal.edu.co/mejores-trabajos-de-grado/) in Civil Engineering that year. During my Master studies, I was (twice) a "Young Researcher" sponsored by the Administrative Department of Science, Technology and Innovation ([Colciencias](https://minciencias.gov.co/)) and the National University of Colombia.
 
 ### Code
-Currently, I am part of the development team of a *future* software for uncertainty quantification in inverse problems. Moreover, when it is possible, I try to release some of the codes related to my research:
+Oftentimes, I try to release the codes related to my research:
 - **Python**: simulation methods for rare event simulation - [github](https://github.com/furibec/rare_event_simulation) (code maintenance level: *medium*). 
 - **MATLAB**: random fields, polynomial chaos, and spectral stochastic finite elements - [matlabcentral](https://mathworks.com/matlabcentral/profile/authors/2912338) (code maintenance level: *low*).
 
