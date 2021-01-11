@@ -37,6 +37,8 @@ on Undertainty Modeling and Analysis (ISUMA). Ed. by Michael Beer, Siu-Kui Au, a
 
 
 ## Theses
-[2] Felipe Uribe (2015): *Probabilistic analysis of structures using stochastic finite elements.* Master's thesis, National University of Colombia at Manizales. Advisors: Dr. Diego A. Alvarez and Dr. Daniel Bedoya-Ruíz. ([full text](https://repositorio.unal.edu.co/handle/unal/55609)).
+[3] Felipe Uribe (2020): *Bayesian analysis and rare event simulation of random fields.* Doctoral thesis, Technical University of Munich. Advisor: [Daniel Straub](https://www.bgu.tum.de/era/team/daniel-straub/).
 
-[1] Felipe Uribe (2011): *Implementation of simulation methods in structural reliability.* Bachelor's thesis (Civil Engineering), National University of Colombia at Manizales. Advisor: Dr. Diego A. Alvarez. ([full text](https://repositorio.unal.edu.co/handle/unal/9878)).
+[2] Felipe Uribe (2015): *Probabilistic analysis of structures using stochastic finite elements.* Master's thesis, National University of Colombia at Manizales. Advisors: [Diego A. Alvarez](https://diegoandresalvarez.github.io/) and [Daniel Bedoya-Ruíz](https://www.researchgate.net/profile/Daniel_Bedoya-Ruiz). ([full text](https://repositorio.unal.edu.co/handle/unal/55609)).
+
+[1] Felipe Uribe (2011): *Implementation of simulation methods in structural reliability.* Bachelor's thesis (Civil Engineering), National University of Colombia at Manizales. Advisor: [Diego A. Alvarez](https://diegoandresalvarez.github.io/). ([full text](https://repositorio.unal.edu.co/handle/unal/9878)).
