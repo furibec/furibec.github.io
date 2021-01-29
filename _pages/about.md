@@ -18,6 +18,6 @@ I am organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchun
 
 <hr><hr>
 
-This homepage contains information about my research in [scientific journals](/publications/) and [meetings](/talks/). I also summarized my [teaching experience](/teaching/) and my [personal background](/cv/).
+This homepage contains information about my research in [scientific journals](/publications/) and [meetings](/talks/). I also summarized my [personal background](/cv/).
 
 <hr>
