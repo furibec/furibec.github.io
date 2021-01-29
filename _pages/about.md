@@ -14,7 +14,7 @@ I am a Postdoctoral Researcher in the Department of Applied Mathematics and Comp
 My research interests lie at the interface of uncertainty quantification and computational mechanics. In particular: inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. Recently, I have been working on uncertainty quantification for tomographic reconstruction.
 
 ### News:
-I am organizing together with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) the mini-symposium: "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference.
+I am organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) the mini-symposium: "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference.
 
 <hr><hr>
 

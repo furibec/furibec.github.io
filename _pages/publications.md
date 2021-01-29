@@ -7,12 +7,12 @@ author_profile: true
 
 
 ## Preprints
-[4] Felipe Uribe, Iason Papaioannou, Youssef M. Marzouk, Daniel Straub (2020): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation.* [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
-
-[3] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* [full text](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf)
+[4] Felipe Uribe, Iason Papaioannou, Jonas Latz, Wolfgang Betz, Elisabeth Ullmann, Daniel Straub (2020): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* [preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf)
 
 
 ## Articles in peer-reviewed journals
+[3] Felipe Uribe, Iason Papaioannou, Youssef M. Marzouk, Daniel Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. To appear. [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
+
 [2] Felipe Uribe, Iason Papaioannou, Wolfgang Betz, Daniel Straub (2020): *Bayesian inference of random fields represented with the Karhunen-Loève expansion*. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
 
 [1] Diego A. Alvarez, Felipe Uribe, Jorge E. Hurtado (2018): *Estimation of the lower and upper bounds on the probability of failure using subset simulation and random set theory*. Mechanical Systems and Signal Processing. 100, 782-801, [doi](https://doi.org/10.1016/j.ymssp.2017.07.040).
