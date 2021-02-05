@@ -14,9 +14,9 @@ I am a Postdoctoral Researcher in the Department of Applied Mathematics and Comp
 My research interests lie at the interface of uncertainty quantification and computational mechanics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. 
 
 ### News
-"*December 2020*": Very happy to have successfully defended my doctoral thesis.
+--*December 2020*: Very happy to have successfully defended my doctoral thesis.
 
-"*October 2020*": I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. Looking forward to it.
+--*October 2020*: I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. Looking forward to it.
 
 <hr><hr>
 
