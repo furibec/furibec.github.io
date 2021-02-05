@@ -11,12 +11,12 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. I work with [Per Christian Hansen](http://www2.compute.dtu.dk/~pcha/) and [Yiqiu Dong](http://www2.compute.dtu.dk/~yido/Publications.html) in the [CUQI](https://www.compute.dtu.dk/english/cuqi) project (**C**omputational **U**ncertainty **Q**uantification for **I**nverse problems), sponsored by the [Villum Foundation](https://veluxfoundations.dk/en).
 
-My research interests lie at the interface of uncertainty quantification and computational mechanics. In particular: inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. Recently, I have been working on uncertainty quantification for tomographic reconstruction.
+My research interests lie at the interface of uncertainty quantification and computational mechanics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. 
 
 ### News
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `December 2020`: Very happy to have successfully defended my doctoral thesis.
+"*December 2020*": Very happy to have successfully defended my doctoral thesis.
 
-**October 2020**: I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. Looking forward to it.
+"*October 2020*": I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. Looking forward to it.
 
 <hr><hr>
 
