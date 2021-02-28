@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. I work with [Per Christian Hansen](http://www2.compute.dtu.dk/~pcha/) and [Yiqiu Dong](http://www2.compute.dtu.dk/~yido/Publications.html) in the [CUQI](https://www.compute.dtu.dk/english/cuqi) project (**C**omputational **U**ncertainty **Q**uantification for **I**nverse problems), sponsored by the [Villum Foundation](https://veluxfoundations.dk/en).
 
-My research interests lie at the interface of uncertainty quantification and computational mechanics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. 
+My research interests lie at the interface of computational statistics and computational mechanics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. 
 
 ### News
 --*December 2020*: Very happy to have successfully defended my doctoral thesis.

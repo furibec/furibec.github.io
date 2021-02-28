@@ -22,4 +22,4 @@ Oftentimes, I try to release the codes related to my research:
 - **MATLAB**: random fields, polynomial chaos, and spectral stochastic finite elements - [matlabcentral](https://mathworks.com/matlabcentral/profile/authors/2912338) (code maintenance level: *low*).
 
 ### Personal life
-Outside of my work, I am passionate about nature and arts: I like hiking and wandering in forests and mountains. I have been pursuing the art of Bonsai since 2010, and doing it more seriously since discovering [Bonsai Mirai](https://live.bonsaimirai.com/). For a couple of years now, I have been practizing Yoga (Iyengar). I also enjoy anime, running, and art museums.
+Outside of my work, I am passionate about nature and arts: I like hiking and wandering in forests and mountains. I have been pursuing the art of Bonsai since 2010, and doing it more seriously since discovering [Bonsai Mirai](https://live.bonsaimirai.com/). For a couple of years now, I have been practicing Yoga (Iyengar). I also enjoy anime, running, and art museums.
