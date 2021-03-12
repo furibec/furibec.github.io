@@ -7,11 +7,14 @@ author_profile: true
 <hr>
 
 ## Upcoming meetings
- - [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), Virtual Conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
+
 
 <hr>
 
 ## Past meetings
+
+### 2021
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=108565) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), virtual conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
 
 ### 2019
  -  Visit & Talk @ [Section of Scientific Computing](https://www.compute.dtu.dk/english/research/Research-sections/SCO), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Kgs. Lyngby, Denmark. *(November 25-27, 2019)*
