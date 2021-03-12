@@ -7,7 +7,7 @@ author_profile: true
 <hr>
 
 ## Upcoming meetings
-
+ - N/A
 
 <hr>
 
