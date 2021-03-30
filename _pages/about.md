@@ -14,13 +14,15 @@ I am a Postdoctoral Researcher in the Department of Applied Mathematics and Comp
 My research interests lie at the interface of computational statistics and computational mechanics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation/structural reliability. 
 
 ### News
---*March 2021*: At [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21), I co-organized the mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*" (see [session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70045), [session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70046)). I also presented some of my recent work. Recordings of all talks are available to conference registrants for the next 3 months via the conference platform.
+ -- Invited to give a (virtual) talk in the seminar of the [Cambridge Image Analysis Group](http://www.damtp.cam.ac.uk/research/cia/) on April 30.
 
---*December 2020*: Very happy to have successfully defended my doctoral thesis.
+ -- *March 2021*: at [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21), I co-organized the mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*" (see [session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70045), [session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70046)). I also presented some of my recent work. Recordings of all talks are available to conference registrants for the next 3 months via the conference platform.
 
---*October 2020*: I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. Looking forward to it.
+ -- *December 2020*: very happy to have successfully defended my doctoral thesis.
 
---*February 2020*: Very happy to have submitted my doctoral thesis.
+ -- *October 2020*: I am co-organizing with [Matthias Chung](https://intranet.math.vt.edu/people/mcchung/) a mini-symposium on "*advances in sampling methods and prior models for large-scale Bayesian inverse problems*", for the (virtual) [SIAM CSE21](https://www.siam.org/conferences/cm/conference/cse21) conference. 
+
+ -- *February 2020*: very happy to have submitted my doctoral thesis.
 
 <hr><hr>
 
