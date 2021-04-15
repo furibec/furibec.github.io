@@ -15,7 +15,7 @@ author_profile: true
 ## Articles in peer-reviewed journals
 [3] F. Uribe, I. Papaioannou, Y. M. Marzouk, D. Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. To appear. [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
 
-[2] F. Uribe, Iason Papaioannou, W. Betz, D. Straub (2020): *Bayesian inference of random fields represented with the Karhunen-Loève expansion*. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
+[2] F. Uribe, I. Papaioannou, W. Betz, D. Straub (2020): *Bayesian inference of random fields represented with the Karhunen-Loève expansion*. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
 
 [1] D. A. Alvarez, F. Uribe, J. E. Hurtado (2018): *Estimation of the lower and upper bounds on the probability of failure using subset simulation and random set theory*. Mechanical Systems and Signal Processing. 100, 782-801, [doi](https://doi.org/10.1016/j.ymssp.2017.07.040).
 
