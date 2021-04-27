@@ -39,7 +39,7 @@ on Undertainty Modeling and Analysis (ISUMA). Ed. by M. Beer, S.-K. Au and J. W.
 
 
 ## Theses
-[3] Felipe Uribe (2020): *Bayesian analysis and rare event simulation of random fields.* Doctoral thesis, Technical University of Munich. Advisor: [Daniel Straub](https://www.bgu.tum.de/era/team/daniel-straub/).
+[3] Felipe Uribe (2020): *Bayesian analysis and rare event simulation of random fields.* Doctoral thesis, Technical University of Munich. Advisor: [Daniel Straub](https://www.bgu.tum.de/era/team/daniel-straub/). ([full text](https://mediatum.ub.tum.de/?id=1538833)).
 
 [2] Felipe Uribe (2015): *Probabilistic analysis of structures using stochastic finite elements.* Master's thesis, National University of Colombia at Manizales. Advisors: [Diego A. Alvarez](https://diegoandresalvarez.github.io/) and [Daniel Bedoya-Ruíz](https://www.researchgate.net/profile/Daniel_Bedoya-Ruiz). ([full text](https://repositorio.unal.edu.co/handle/unal/55609)).
 
