@@ -7,13 +7,13 @@ author_profile: true
 <hr>
 
 ## Upcoming meetings
- - Talk @ Seminar, [Cambridge Image Analysis Group](http://www.damtp.cam.ac.uk/research/cia/), University of Cambridge, UK. *(April 30, 2021)*
 
 <hr>
 
 ## Past meetings
 
 ### 2021
+ - Talk @ Seminar, [Cambridge Image Analysis group](http://www.damtp.cam.ac.uk/research/cia/), University of Cambridge, UK. *(April 30, 2021)*
  - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=108565) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), virtual conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
 
 ### 2019
