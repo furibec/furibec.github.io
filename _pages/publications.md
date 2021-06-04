@@ -9,11 +9,11 @@ author_profile: true
 ## Preprints
 [5] F. Uribe, J. M. Bardsley, Y. Dong, P. C. Hansen, N. A. B. Riis  (2021): *A hybrid Gibbs sampler for edge-preserving tomographic reconstruction with uncertain view angles.* [arXiv](https://arxiv.org/pdf/2104.06919.pdf)
 
-[4] F. Uribe, I. Papaioannou, J. Latz, W. Betz, E. Ullmann, D. Straub (2020): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* [preprint](https://www.bgu.tum.de/fileadmin/w00blj/era/Papers/2020_uribe_et_al_IJNME.pdf)
-
 
 ## Articles in peer-reviewed journals
-[3] F. Uribe, I. Papaioannou, Y. M. Marzouk, D. Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. To appear. [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
+[4] F. Uribe, I. Papaioannou, Y. M. Marzouk, D. Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. To appear. [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
+
+[3] F. Uribe, I. Papaioannou, J. Latz, W. Betz, E. Ullmann, D. Straub (2021): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* International Journal for Numerical Methods in Engineering. [doi](https://doi.org/10.1002/nme.6758). 
 
 [2] F. Uribe, I. Papaioannou, W. Betz, D. Straub (2020): *Bayesian inference of random fields represented with the Karhunen-Loève expansion*. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
 
