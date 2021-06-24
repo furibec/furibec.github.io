@@ -11,9 +11,9 @@ author_profile: true
 
 
 ## Articles in peer-reviewed journals
-[4] F. Uribe, I. Papaioannou, Y. M. Marzouk, D. Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. To appear. [arXiv](https://arxiv.org/pdf/2006.05496.pdf)
+[4] F. Uribe, I. Papaioannou, J. Latz, W. Betz, E. Ullmann, D. Straub (2021): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* International Journal for Numerical Methods in Engineering, [doi](https://doi.org/10.1002/nme.6758). 
 
-[3] F. Uribe, I. Papaioannou, J. Latz, W. Betz, E. Ullmann, D. Straub (2021): *Bayesian inference with subset simulation in varying dimensions applied to the Karhunen–Loève expansion.* International Journal for Numerical Methods in Engineering. [doi](https://doi.org/10.1002/nme.6758). 
+[3] F. Uribe, I. Papaioannou, Y. M. Marzouk, D. Straub (2021): *Cross-entropy-based importance sampling with failure-informed dimension reduction for rare event simulation*. SIAM/ASA Journal on Uncertainty Quantification. 9(2), 818-847, [doi](https://doi.org/10.1137/20M1344585)[arXiv](https://arxiv.org/pdf/2006.05496.pdf).
 
 [2] F. Uribe, I. Papaioannou, W. Betz, D. Straub (2020): *Bayesian inference of random fields represented with the Karhunen-Loève expansion*. Computer Methods in Applied Mechanics and Engineering. 358, 112632, [doi](https://doi.org/10.1016/j.cma.2019.112632).
 
