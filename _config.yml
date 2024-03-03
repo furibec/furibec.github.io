@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Felipe Uribe"
 title_separator          : ""
 name                     : &name "Felipe Uribe"
-description              : &description "PostdoctoralResearcher and DataScientist"
+description              : &description "DataScientist"
 url                      : https://furibec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "furibec/furibec.github.io"
@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Uribe"
-  avatar           : "2022_small.jpg"
-  bio              : "Postdoctoral Researcher and Data Scientist"
+  avatar           : "2024_FU.jpg"
+  bio              : "Data Scientist and Postdoctoral Researcher"
   location         : "Helsinki, FI"
-  employer         : "LUT University and Danfoss Leanheat"
+  employer         : "Leanheat and LUT University"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=L9LldjUAAAAJ&hl=en"
   email            : "felipe.uribe@lut.fi"
-  researchgate     : "https://www.researchgate.net/profile/Felipe-Uribe-3"
   orcid            : "https://orcid.org/0000-0002-1010-8184"
   uri              :
   bitbucket        :

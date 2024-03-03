@@ -6,9 +6,6 @@ author_profile: true
 ---
 <hr>
 
-## Upcoming meetings
-
-
 ## Past meetings
 
 ### 2024
