@@ -8,12 +8,13 @@ author_profile: true
 ## Preprints
 [10] R. Flock, Y. Dong, F. Uribe, O. Zahm: *Certified coordinate selection for high-dimensional Bayesian inversion with Laplace prior*, [preprint](https://assets.researchsquare.com/files/rs-3471448/v1_covered_ad521472-5018-4c98-802b-3545a53570fb.pdf?c=1698217705).
 
-[9] A. M. A. Alghamdi, N. A. B. Riis, B. M. Afkham, F. Uribe, S. L. Christensen, P. C. Hansen, J. S. Jørgensen: *CUQIpy -- Part II: computational uncertainty quantification for PDE-based inverse problems in Python*.
-
-[8] N. A. B. Riis, A. M. A. Alghamdi, F. Uribe, S. L. Christensen, B. M. Afkham, P. C. Hansen, J. S. Jørgensen: *CUQIpy -- Part I: computational uncertainty quantification for inverse problems in Python*.
 
 ## Articles in peer-reviewed journals
-[7] S. L. Christensen, N. A. B. Riis, F. Uribe, J. S. Jørgensen (2023): *Structural Gaussian priors for Bayesian CT reconstruction of subsea pipes*. Applied Mathematics in Science and Engineering. 31(1), 2224918, [doi](https://doi.org/10.1080/27690911.2023.2224918), [arXiv](https://arxiv.org/pdf/2203.01030v1.pdf)
+[9] A. M. A. Alghamdi, N. A. B. Riis, B. M. Afkham, F. Uribe, S. L. Christensen, P. C. Hansen, J. S. Jørgensen (2024): *CUQIpy: II. Computational uncertainty quantification for PDE-based inverse problems in Python*. Inverse Problems. 40 045010, [doi](https://doi.org/10.1088/1361-6420/ad22e8).
+
+[8] N. A. B. Riis, A. M. A. Alghamdi, F. Uribe, S. L. Christensen, B. M. Afkham, P. C. Hansen, J. S. Jørgensen (2024): *CUQIpy: I. Computational uncertainty quantification for inverse problems in Python*. Inverse Problems. 40 045009, [doi](https://doi.org/10.1088/1361-6420/ad22e7).
+
+[7] S. L. Christensen, N. A. B. Riis, F. Uribe, J. S. Jørgensen (2023): *Structural Gaussian priors for Bayesian CT reconstruction of subsea pipes*. Applied Mathematics in Science and Engineering. 31(1), 2224918, [doi](https://doi.org/10.1080/27690911.2023.2224918), [arXiv](https://arxiv.org/pdf/2203.01030v1.pdf).
 
 [6] F. Uribe, Y. Dong, P. C. Hansen: *Horseshoe priors for edge-preserving linear Bayesian inversion*. SIAM Journal on Scientific Computing. 45(3), B337-B365, [doi](https://doi.org/10.1137/22M1510364), [arXiv](https://arxiv.org/pdf/2207.09147.pdf).
 
