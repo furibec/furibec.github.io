@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
+[11] A. Senchukova, F. Uribe, L. Roininen: *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*.
+
 [10] R. Flock, Y. Dong, F. Uribe, O. Zahm: *Certified coordinate selection for high-dimensional Bayesian inversion with Laplace prior*, [preprint](https://assets.researchsquare.com/files/rs-3471448/v1_covered_ad521472-5018-4c98-802b-3545a53570fb.pdf?c=1698217705).
 
 
