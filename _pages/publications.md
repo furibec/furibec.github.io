@@ -18,7 +18,7 @@ author_profile: true
 
 [7] S. L. Christensen, N. A. B. Riis, F. Uribe, J. S. Jørgensen (2023): *Structural Gaussian priors for Bayesian CT reconstruction of subsea pipes*. Applied Mathematics in Science and Engineering. 31(1), 2224918, [doi](https://doi.org/10.1080/27690911.2023.2224918), [arXiv](https://arxiv.org/pdf/2203.01030v1.pdf).
 
-[6] F. Uribe, Y. Dong, P. C. Hansen: *Horseshoe priors for edge-preserving linear Bayesian inversion*. SIAM Journal on Scientific Computing. 45(3), B337-B365, [doi](https://doi.org/10.1137/22M1510364), [arXiv](https://arxiv.org/pdf/2207.09147.pdf).
+[6] F. Uribe, Y. Dong, P. C. Hansen (2023): *Horseshoe priors for edge-preserving linear Bayesian inversion*. SIAM Journal on Scientific Computing. 45(3), B337-B365, [doi](https://doi.org/10.1137/22M1510364), [arXiv](https://arxiv.org/pdf/2207.09147.pdf).
 
 [5] F. Uribe, J. M. Bardsley, Y. Dong, P. C. Hansen, N. A. B. Riis (2022): *A hybrid Gibbs sampler for edge-preserving tomographic reconstruction with uncertain view angles.* SIAM/ASA Journal on Uncertainty Quantification. 10(3), 1293-1320, [doi](https://doi.org/10.1137/21M1412268), [arXiv](https://arxiv.org/pdf/2104.06919.pdf).
 

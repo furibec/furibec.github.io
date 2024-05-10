@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 I am a Data Scientist at [Danfoss Leanheat](https://leanheat.com/) working in the Data Science team lead by [Antti Solonen](https://github.com/solbes). I also have a part-time Postdoctoral Researcher position within the School of Engineering Sciences at Lappeenranta-Lahti University of Technology (LUT), where I am working with [Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen).
 
-My research interests lie at the interface of computational sciences and applied probability and statistics. In particular: uncertainty quantification, inverse problems, Bayesian inference, Monte Carlo methods, rare event simulation, and data assimilation. In the process of learning: optimal control and reinforcement learning.
+My research interests lie at the interface of computational sciences and applied probability and statistics. In particular: uncertainty quantification, inverse problems, Bayesian inference, data assimilation, Monte Carlo methods, rare event simulation, and probabilistic machine learning.
 
 <hr><hr>
 
