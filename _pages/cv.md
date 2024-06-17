@@ -19,6 +19,9 @@ Before moving to Denmark, I earned a doctoral degree (*Doktor der Ingenieurwisse
 
 Before moving to Germany, I did my bachelor in Civil Engineering and Master in Engineering at the [National University of Colombia at Manizales](https://www.manizales.unal.edu.co/) under the supervision of [Diego A. Alvarez](https://diegoandresalvarez.github.io/). My bachelor thesis was selected as the [best bachelor final project](http://www.pregrado.unal.edu.co/en/best-degree-works/) in Civil Engineering that year. During my Master studies, I was (twice) a "Young Researcher" sponsored by the Administrative Department of Science, Technology and Innovation ([Colciencias](https://minciencias.gov.co/)) and the National University of Colombia.
 
+### Digital Book 
+My colleagues back at DTU are developing an online mini-book on [*Uncertainty Quantification in Inverse Problems with CUQIpy*](https://cuqi-dtu.github.io/CUQI-Book/intro.html). I will be contributing with different topics, such as Monte Carlo methods, MCMC, Bayesian inverse problems, priors, etc.
+
 ### Code
 Oftentimes I release the codes associated with my research. 
 
