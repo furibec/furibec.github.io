@@ -9,6 +9,7 @@ author_profile: true
 ## Past meetings
 
 ### 2024
+ - [Lectures] @ [02975 Introduction to Bayesian inverse problems](https://lifelonglearning.dtu.dk/en/compute/single-course/introduction-to-uncertainty-quantification-for-inverse-problems/). Technical University of Denmark. Kgs. Lyngby, Denmark. *(June 10-14, 2024)*
  - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=134171) @ [SIAM Conference on Uncertainty Quantification (UQ24)](https://www.siam.org/conferences/cm/conference/uq24), Trieste, Italy. *(February 27 - March 1, 2024)*
 
 ### 2023
