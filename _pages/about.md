@@ -10,6 +10,8 @@ redirect_from:
 <hr>
 I am a Data Scientist at [Danfoss Leanheat](https://leanheat.com/) working in the Data Science team lead by [Antti Solonen](https://github.com/solbes). 
 
+I hold a doctoral degree from the Technical University of Munich, including research experience at MIT. Additionally, I have completed postdoctoral work at the Technical University of Denmark and LUT University.
+
 My research interests lie at the interface of computational sciences and applied probability and statistics. In particular: uncertainty quantification, inverse problems, Bayesian inference, data assimilation, Monte Carlo methods, rare event simulation, and probabilistic machine learning.
 
 <hr><hr>
