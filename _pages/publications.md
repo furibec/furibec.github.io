@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ## Preprints
-[11] A. Senchukova, F. Uribe, L. Roininen: *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*, [preprint](https://arxiv.org/pdf/2403.13665.pdf).
+[12] R. Flock, Y. Dong, F. Uribe, O. Zahm: *Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors*, [preprint](https://arxiv.org/pdf/2408.16594).
 
 
 ## Articles in peer-reviewed journals
+[11] A. Senchukova, F. Uribe, L. Roininen (2024): *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*. Inverse Problems. Accepted, [preprint](https://arxiv.org/pdf/2403.13665.pdf).
+
 [10] R. Flock, Y. Dong, F. Uribe, O. Zahm (2024): *Certified coordinate selection for high-dimensional Bayesian inversion with Laplace prior*. Statistics and Computing. 34(134), 1-17, [doi](https://doi.org/10.1007/s11222-024-10445-1).
 
 [9] A. M. A. Alghamdi, N. A. B. Riis, B. M. Afkham, F. Uribe, S. L. Christensen, P. C. Hansen, J. S. Jørgensen (2024): *CUQIpy: II. Computational uncertainty quantification for PDE-based inverse problems in Python*. Inverse Problems. 40 045010, [doi](https://doi.org/10.1088/1361-6420/ad22e8).
