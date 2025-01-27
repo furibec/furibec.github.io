@@ -6,6 +6,13 @@ author_profile: true
 ---
 <hr>
 
+## Upcoming meetings
+
+### 2025
+ - Guest Lecture @ Special course on inverse problems. LUT University. Lappeenranta, Finland. *(February 20, 2025)*
+ - [Participant] @ [CDOIQ Nordic Symposium](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium). Aalto University. Espoo, Finland. *(February 12, 2025)*
+
+
 ## Past meetings
 
 ### 2024
