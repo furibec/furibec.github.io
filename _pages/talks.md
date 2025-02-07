@@ -9,14 +9,14 @@ author_profile: true
 ## Upcoming meetings
 
 ### 2025
- - Guest Lecture @ Special course on inverse problems. LUT University. Lappeenranta, Finland. *(February 20, 2025)*
- - [Participant] @ [CDOIQ Nordic Symposium](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium). Aalto University. Espoo, Finland. *(February 12, 2025)*
+ - Guest Lecturer @ Special course on inverse problems. LUT University. Lappeenranta, Finland. *(February 20, 2025)*
+ - Participant @ [CDOIQ Nordic Symposium](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium). Aalto University. Espoo, Finland. *(February 12, 2025)*
 
 
 ## Past meetings
 
 ### 2024
- - [Lectures] @ [02975 Introduction to Bayesian inverse problems](https://lifelonglearning.dtu.dk/en/compute/single-course/introduction-to-uncertainty-quantification-for-inverse-problems/). Technical University of Denmark. Kgs. Lyngby, Denmark. *(June 10-14, 2024)*
+ - Lecturer @ [02975 Introduction to Bayesian inverse problems](https://lifelonglearning.dtu.dk/en/compute/single-course/introduction-to-uncertainty-quantification-for-inverse-problems/). Technical University of Denmark. Kgs. Lyngby, Denmark. *(June 10-14, 2024)*
  - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=134171) @ [SIAM Conference on Uncertainty Quantification (UQ24)](https://www.siam.org/conferences-events/past-event-archive/uq24/), Trieste, Italy. *(February 27 - March 1, 2024)*
 
 ### 2023
