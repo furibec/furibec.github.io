@@ -17,7 +17,7 @@ author_profile: true
 
 ### 2024
  - [Lectures] @ [02975 Introduction to Bayesian inverse problems](https://lifelonglearning.dtu.dk/en/compute/single-course/introduction-to-uncertainty-quantification-for-inverse-problems/). Technical University of Denmark. Kgs. Lyngby, Denmark. *(June 10-14, 2024)*
- - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=134171) @ [SIAM Conference on Uncertainty Quantification (UQ24)](https://www.siam.org/conferences/cm/conference/uq24), Trieste, Italy. *(February 27 - March 1, 2024)*
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=134171) @ [SIAM Conference on Uncertainty Quantification (UQ24)](https://www.siam.org/conferences-events/past-event-archive/uq24/), Trieste, Italy. *(February 27 - March 1, 2024)*
 
 ### 2023
  - Participant/Talk @ [Autumn school in Bayesian statistics at CIRM](https://bayesatcirm.github.io/2023/), Marseille, France. *(October 30 - November 3, 2023)*
@@ -27,7 +27,7 @@ author_profile: true
  - Participant/Poster @ [Mathematical foundations for data-driven engineering](https://www.icms.org.uk/DataDrivenEngineering), Edinburgh, UK. *(May 9-12, 2023)*
  - Participant/Poster @ [The annual SFB1294 Spring School](https://www.sfb1294.de/events/event/spring-school-2023), Joachimsthal, Germany. *(March 20-24, 2023)*
  - Talk @ [Bayes Comp 2023](https://bayescomp2023.com/), Levi, Finland. *(March 12-17, 2023)*
- - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=124852) @ [SIAM Conference on Computational Science and Engineering (CSE23)](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands. *(February 26 - March 3, 2023)*
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=124852) @ [SIAM Conference on Computational Science and Engineering (CSE23)](https://www.siam.org/conferences-events/past-event-archive/cse23/), Amsterdam, The Netherlands. *(February 26 - March 3, 2023)*
 
 ### 2022
  - Talk @ Seminar, [Engineering Risk Analysis group](https://www.cee.ed.tum.de/era/seminars/), Technical University of Munich. Munich, Germany. *(Nov 8, 2022)*
@@ -35,13 +35,13 @@ author_profile: true
  - [Talk](https://ncm28.math.aalto.fi/schedule/session/8) @ [28th Nordic Congress of Mathematicians (NCM28)](https://ncm28.math.aalto.fi/info), Espoo, Finland. *(August 18-21, 2022)*
  - [Lecture](https://bugs.unica.it/cana/clip22/FelipeUribe.pdf) @ [Summer School on Recent Advancements in Computational and Learning Methods for Inverse Problems (CLIP22)](https://bugs.unica.it/cana/clip22/), Cagliary, Italy. *(July 11-15, 2022)*
  - Visit & Talk @ [Department of Computational Engineering](https://www.lut.fi/en/research-groups/uncertainty-quantification-and-inverse-problems/seminar-computational-engineering), Lappeenranta-Lahti University of Technology (LUT). Lappeenranta, Finland. *(June 7-10, 2022, with Prof. L. Roininen)*
- - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=118232) @ [SIAM Conference on Uncertainty Quantification (UQ22)](https://siam.org/conferences/cm/conference/uq22), hybrid conference: Atlanta, U.S. *(April 12-15, 2022)*
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=118232) @ [SIAM Conference on Uncertainty Quantification (UQ22)](https://www.siam.org/conferences-events/past-event-archive/uq22/), hybrid conference: Atlanta, U.S. *(April 12-15, 2022)*
  - Visit & Talk @ [Department of Mathematical Sciences](https://www.umt.edu/math/), University of Montana. Missoula, U.S. *(March 28 - April 9, 2022, with Prof. J. M. Bardsley)*
- - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=117103) @ [SIAM Conference on Imaging Science (IS22)](https://siam.org/conferences/cm/conference/is22), virtual conference: originally scheduled in Berlin, Germany. *(March 21-25, 2022)*
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=117103) @ [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences-events/past-event-archive/is22), virtual conference: originally scheduled in Berlin, Germany. *(March 21-25, 2022)*
 
 ### 2021
  - Talk (virtual) @ Seminar, [Cambridge Image Analysis group](http://www.damtp.cam.ac.uk/research/cia/), University of Cambridge. Cambridge, UK. *(April 30, 2021)*
- - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=108565) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), virtual conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
+ - [Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=108565) @ [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences-events/past-event-archive/cse21), virtual conference: originally scheduled in Fort Worth, Texas, U.S. *(March 1-5, 2021)*
 
 ### 2019
  - Visit & Talk @ [Section of Scientific Computing](https://www.compute.dtu.dk/english/research/Research-sections/SCO), Department of Applied Mathematics and Computer Science, Technical University of Denmark. Kgs. Lyngby, Denmark. *(November 25-27, 2019, with Prof. P. C. Hansen)*
@@ -50,14 +50,14 @@ author_profile: true
 
 ### 2018
  - Long-term stay @ [UQ Group](https://uqgroup.mit.edu/home), Department of Aeronautics and Astronautics, Massachusetts Institute of Technology. Cambridge, U.S. *(September - December, 2018, with Prof. Y. M. Marzouk)*
- - Talk @ [13th World Congress in Computational Mechanics (WCCM18)](http://www.wccm2018.org/), New York, U.S. *(July 22-27, 2018)* 
+ - Talk @ [13th World Congress in Computational Mechanics (WCCM18)](https://iacm.info/scientific-events/wccm/), New York, U.S. *(July 22-27, 2018)* 
  - Talk @ [8th Conference on Computational Stochastic Mechanics (CSM8)](https://www.unipa.it/strutture/csm8/), Paros, Greece. *(June 10-13, 2018)*
- - Talk @ [GAMM Annual Meeting 2018](https://jahrestagung.gamm-ev.de/index.php/2018/2018-annual-meeting), Munich, Germany. *(March 19-23, 2018)*
+ - Talk @ [GAMM Annual Meeting 2018](https://jahrestagung.gamm.org/year-2018/annual-meeting/), Munich, Germany. *(March 19-23, 2018)*
 
 ### 2017
  - Poster @ [Frontiers of Uncertainty Quantification in Engineering (FrontUQ)](https://www.events.tum.de/frontend/index.php?sub=62), Munich, Germany. *(September 6-8, 2017)*
  - Talk @ [12th International Conference on Structural Safety & Reliability (ICOSSAR2017)](http://icossar2017.org/), Vienna, Austria. *(August 6-10, 2017)* 
- - Participant @ [4th GAMM Junior's and 1st GRK2075 Summer School](https://www.gamm-juniors.de/?m=201709), Technical University of Braunschweig, Braunschweig, Germany. *(July 10-14, 2017)*
+ - Participant @ [4th GAMM Junior's and 1st GRK2075 Summer School](https://www.gamm-juniors.de/2017/09/), Technical University of Braunschweig, Braunschweig, Germany. *(July 10-14, 2017)*
  - Talk @ [2nd International Conference on Uncertainty Quantification in Computational Sciences and Engineering (UNCECOMP 2017)](https://2017.uncecomp.org/), Rhodes, Greece. *(June 15-17, 2017)* 
 
 ### 2014
