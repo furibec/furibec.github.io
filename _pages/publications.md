@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Preprints
-[12] R. Flock, Y. Dong, F. Uribe, O. Zahm: *Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors*, [preprint](https://arxiv.org/pdf/2408.16594).
 
 
 ## Articles in peer-reviewed journals
-[11] A. Senchukova, F. Uribe, L. Roininen (2024): *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*. Inverse Problems. 40(10),105013, [doi](https://doi.org/10.1088/1361-6420/ad75af), [arXiv](https://arxiv.org/pdf/2403.13665.pdf).
+[12] R. Flock, Y. Dong, F. Uribe, O. Zahm (2025): *Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors*. Inverse Problems. [arXiv](https://arxiv.org/pdf/2408.16594).
+
+[11] A. Senchukova, F. Uribe, L. Roininen (2024): *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*. Inverse Problems. 40(10), 105013, [doi](https://doi.org/10.1088/1361-6420/ad75af), [arXiv](https://arxiv.org/pdf/2403.13665.pdf).
 
 [10] R. Flock, Y. Dong, F. Uribe, O. Zahm (2024): *Certified coordinate selection for high-dimensional Bayesian inversion with Laplace prior*. Statistics and Computing. 34(134), 1-17, [doi](https://doi.org/10.1007/s11222-024-10445-1).
 
