@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
+[13] E. Hannula, A. Häkkinen, A. Solonen, F. Uribe, J. de Wiljes, L. Roininen (2025): *Bayesian LSTM for indoor temperature modeling*. [arXiv](https://arxiv.org/abs/2504.03350).
 
 
 ## Articles in peer-reviewed journals
