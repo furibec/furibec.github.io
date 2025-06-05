@@ -13,8 +13,9 @@ TBA
 ## Past meetings
 
 ### 2025
+- Participant @ [LUT Doctoral School Science Conference](https://www.lut.fi/en/ds-conference-2025). LUT University. Lappeenranta, Finland. *(May 20, 2025)* 
  - Guest Lecturer @ Special course on inverse problems. LUT University. Lappeenranta, Finland. *(February 20, 2025)*
- - Participant @ [CDOIQ Nordic Symposium](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium). Aalto University. Espoo, Finland. *(February 12, 2025)*
+ - [CDOIQ Nordic Symposium](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium). Aalto University. Espoo, Finland. *(February 12, 2025)*
 
 ### 2024
  - Lecturer @ [02975 Introduction to Bayesian inverse problems](https://lifelonglearning.dtu.dk/en/compute/single-course/introduction-to-uncertainty-quantification-for-inverse-problems/). Technical University of Denmark. Kgs. Lyngby, Denmark. *(June 10-14, 2024)*
