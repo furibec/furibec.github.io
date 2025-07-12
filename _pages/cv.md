@@ -31,4 +31,10 @@ Oftentimes I release the codes associated with my research.
 - **MATLAB**: random fields, polynomial chaos, and spectral stochastic finite elements ([FileExchange](https://mathworks.com/matlabcentral/profile/authors/2912338)) - code maintenance level: *low*.
 
 ### Freetime activities
-Outside of my work, I am passionate about arts and nature. I like checking out museums, and hiking through forests and mountains. Moreover, I enjoy playing chess (we can play in [Lichess](https://lichess.org/)!, look for **DrVilppu**), doing [Scandinavian flat-plane carving](https://en.wikipedia.org/wiki/Scandinavian_flat-plane_style_of_woodcarving), and gardening. I have been practicing the art of Bonsai since 2010; more seriously since discovering [Bonsai Mirai](https://live.bonsaimirai.com/) (and since visiting Japan in 2023!).
+Outside of my work, I am passionate about arts and nature. I like checking out 
+museums, and hiking through forests and mountains. Moreover, I enjoy playing 
+chess, making [Scandinavian flat-plane 
+carving](https://en.wikipedia.org/wiki/Scandinavian_flat-
+plane_style_of_woodcarving), and gardening. I have been practicing the art of 
+Bonsai since 2010; more seriously since discovering [Bonsai 
+Mirai](https://live.bonsaimirai.com/) (and since visiting Japan in 2023!).
