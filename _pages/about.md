@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <hr>
-I am a Data Scientist at [Danfoss Leanheat](https://leanheat.com/) working in the Data Science team lead by [Antti Solonen](https://github.com/solbes). 
+I am a Data Scientist in the Solutions and Technology division of Danfoss, working in the Data Science team lead by [Antti Solonen](https://github.com/solbes). 
 
 I hold a doctoral degree from the Technical University of Munich (Germany), including research experience at MIT (USA). Additionally, I have completed postdoctoral work at the Technical University of Denmark (Denmark) and LUT University (Finland).
 

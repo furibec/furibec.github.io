@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Data Scientist within the Data Analysis division of Danfoss Leanheat in Helsinki, Finland.
+I am a Data Scientist within the Solutions and Technology division of Danfoss in Helsinki, Finland. Currently supporting the development of the [Danfoss Leanheat](https://www.danfoss.com/en/products/dhs/software-solutions/danfoss-leanheat-software-suite-services/leanheat-building/) product (since September 2023).
 
 ### Experience and Education
 Before moving to industry, I was a postdoctoral researcher in the School of Engineering Sciences at LUT University (Lappeenranta-Lahti University of Technology) from October 2022 until July 2024. I worked with [Lassi Roininen](https://www.lut.fi/fi/profiilit/lassi-roininen).
