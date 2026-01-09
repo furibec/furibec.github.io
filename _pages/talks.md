@@ -7,12 +7,13 @@ author_profile: true
 <hr>
 
 ## Upcoming meetings
- - Participant @ [CSC Practical Deep Learning](https://csc.fi/en/training-calendar/practical-deep-learning-6/). Espoo, Finland. *(November 11-12, 2025)* 
+TBA
 
 
 ## Past meetings
 
 ### 2025
+ - Participant @ [CSC Practical Deep Learning](https://csc.fi/en/training-calendar/practical-deep-learning-6/). Espoo, Finland. *(November 11-12, 2025)* 
  - Participant @ [Datadog Live in Helsinki](https://events.datadoghq.com/events/datadog-live-helsinki-30-october-2025). Helsinki, Finland. *(October 30, 2025)* 
  - Participant @ [LUT Doctoral School Science Conference](https://www.lut.fi/en/ds-conference-2025). LUT University. Lappeenranta, Finland. *(May 20, 2025)* 
  - Guest Lecturer @ Special course on inverse problems. LUT University. Lappeenranta, Finland. *(February 20, 2025)*
