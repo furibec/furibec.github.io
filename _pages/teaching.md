@@ -9,7 +9,7 @@ author_profile: true
 ## Lectures
 
 ### LUT University, School of Engineering Sciences
- -  *January 2024:* Special Course on Inverse Problems. Here are the slides I created for the course, which I have been building from previous courses. At sompoint, I should create a github repo with the python codes we covered in class.
+ -  *January 2024:* Special Course on Inverse Problems. Here are the course slides, which I have been developing and building on previous courses. At some point, I should create a GitHub repository with all the Python codes we covered in class.
     - [[Introduction]](../files/00_main_slides_intro.pdf)
     - [[Probability theory]](../files/01_main_slides_prob.pdf)
     - [[Monte Carlo methods]](../files/02_main_slides_MC.pdf)
