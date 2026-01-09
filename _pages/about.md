@@ -16,6 +16,6 @@ My research interests lie at the interface of computational sciences and applied
 
 <hr><hr>
 
-This homepage contains information about my research in [scientific journals](/publications/) and [meetings](/talks/). I summarized my [personal background](/cv/), and I am planning to include more information about my Python code as well.
+This homepage contains information about my research in [scientific journals](/publications/), [meetings](/talks/) and [teaching](/teaching/). I summarized my [personal background](/cv/), and I am planning to include more information about my Python code as well.
 
 <hr>
