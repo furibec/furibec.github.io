@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ## Preprints
-[13] E. Hannula, A. Häkkinen, A. Solonen, F. Uribe, J. de Wiljes, L. Roininen (2025): *Bayesian LSTM for indoor temperature modeling*. [arXiv](https://arxiv.org/abs/2504.03350).
 
 
 ## Articles in peer-reviewed journals
+[13] E. Hannula, A. Häkkinen, F. Uribe, A. Solonen, J. de Wiljes, L. Roininen (2026): *Partially stochastic deep learning with uncertainty quantification for building thermal modeling*. Building and Environment 289, 114118, [doi](https://doi.org/10.1016/j.buildenv.2025.114118).
+
 [12] R. Flock, Y. Dong, F. Uribe, O. Zahm (2025): *Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors*. Inverse Problems. 41(6), 065012, [doi](https://doi.org/10.1088/1361-6420/add6cf), [arXiv](https://arxiv.org/pdf/2408.16594).
 
 [11] A. Senchukova, F. Uribe, L. Roininen (2024): *Bayesian inversion with Student's t priors based on Gaussian scale mixtures*. Inverse Problems. 40(10), 105013, [doi](https://doi.org/10.1088/1361-6420/ad75af), [arXiv](https://arxiv.org/pdf/2403.13665.pdf).
