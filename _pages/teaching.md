@@ -8,14 +8,15 @@ author_profile: true
 ## Lectures
 
 The courses at LUT and DTU were based on the following slides (with different topic variations), with derivations and examples done on blackboard. At some point, I should create a GitHub repository with all the Python codes we covered in class.
-    - [[00 - Introduction]](../files/00_main_slides_intro.pdf)
-    - [[01 - Probability theory]](../files/01_main_slides_prob.pdf)
-    - [[02a - Monte Carlo methods]](../files/02_main_slides_MC.pdf)
-    - [[02b - Variance reduction]](../files/03_main_slides_vared.pdf)
-    - [[03 - Random fields and Bayesian neural networks]](../files/04_main_slides_RFs_BNNs.pdf)
-    - [[04 - Bayesian inverse problems]](../files/05_main_slides_inference.pdf)
-    - [[05a - Prior models and intro model selection]](../files/06_main_slides_priors.pdf)
-    - [[05b - MCMC and approximation methods]](../files/07_main_slides_MCMC.pdf)
+
+1. [[00 - Introduction]](../files/00_main_slides_intro.pdf)
+2. [[01 - Intro probability theory]](../files/01_main_slides_prob.pdf)
+3. [[02a - Monte Carlo methods]](../files/02_main_slides_MC.pdf)
+4. [[02b - Variance reduction methods]](../files/03_main_slides_vared.pdf)
+5. [[03 - Random fields, KL expansion and neural networks]](../files/04_main_slides_RFs_BNNs.pdf)
+6. [[04 - Bayesian inverse problems]](../files/05_main_slides_inference.pdf)
+7. [[05a - Prior models and intro model selection]](../files/06_main_slides_priors.pdf)
+8. [[05b - MCMC and approximation methods]](../files/07_main_slides_MCMC.pdf)
 
 ### LUT University, School of Engineering Sciences
  -  *January-February 2024:* Special Course on Inverse Problems.
