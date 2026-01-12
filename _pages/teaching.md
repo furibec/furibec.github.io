@@ -7,18 +7,18 @@ author_profile: true
 
 ## Lectures
 
-### LUT University, School of Engineering Sciences
- -  *January-February 2024:* Special Course on Inverse Problems. 
- These are the course slides, which I have been developing and building on previous courses. At some point, I should create a GitHub repository with all the Python codes we covered in class.
+The courses at LUT and DTU were based on the following slides (with different topic variations), with derivations and examples done on blackboard. At some point, I should create a GitHub repository with all the Python codes we covered in class.
     - [[00 - Introduction]](../files/00_main_slides_intro.pdf)
     - [[01 - Probability theory]](../files/01_main_slides_prob.pdf)
     - [[02a - Monte Carlo methods]](../files/02_main_slides_MC.pdf)
     - [[02b - Variance reduction]](../files/03_main_slides_vared.pdf)
     - [[03 - Random fields and Bayesian neural networks]](../files/04_main_slides_RFs_BNNs.pdf)
     - [[04 - Bayesian inverse problems]](../files/05_main_slides_inference.pdf)
-    - [[05a - Prior models]](../files/06_main_slides_priors.pdf)
+    - [[05a - Prior models and intro model selection]](../files/06_main_slides_priors.pdf)
     - [[05b - MCMC and approximation methods]](../files/07_main_slides_MCMC.pdf)
 
+### LUT University, School of Engineering Sciences
+ -  *January-February 2024:* Special Course on Inverse Problems.
  -  *January-February 2023:* Special Course on Inverse Problems.
 
 ### Technical University of Denmark, Department of Applied Mathematics and Computer Science
@@ -34,7 +34,7 @@ author_profile: true
 ## Guest-lectures/Tutorials/Seminars
 
 ### LUT University, School of Engineering Sciences
- -  *January and November 2025:* Guest Lectures for the Special Course on Inverse Problems and the course on Computational Science and Artificial Intelligence — Working life.
+ -  *Jan. and Nov. 2025:* Guest Lectures for the Special Course on Inverse Problems and the course on Computational Science and Artificial Intelligence — Working life.
 
 ### Technical University of Denmark, Department of Applied Mathematics and Computer Science
  -  *Sept. 2021:* Guest Lecture for the course on Introduction to Inverse Problems. Ph.D. Course.
@@ -52,7 +52,7 @@ author_profile: true
 
 ## Supervised students
 
-### PhD's theses (unnofficial co-supervisor)
+### Ph.D.'s theses (unnofficial co-supervisor)
  - *Since 2025:* Arttu Häkkinen: Physics-informed machine learning for indoor temperature modeling and control @Danfoss+LUT.
  - *2024:* Angelina Senchukova: [Flexible priors for rough feature reconstruction in Bayesian inversion](https://lutpub.lut.fi/handle/10024/168218) @LUT.
  - *2024:* Rafael Floch: [Dimension reduction methods for Bayesian inversion with applications in image reconstruction](https://orbit.dtu.dk/en/publications/dimension-reduction-methods-for-bayesian-inversion-with-applicati/) @DTU.
