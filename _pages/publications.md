@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
-TBA
+[14] A. Solonen, A. Häkkinen, S. Rapo, A. Mäkinen, S. Kaukonen, F. Uribe (2026): *Evaluating consumption effects of intelligent control algorithms for district heated buildings*. [arXiv](https://arxiv.org/abs/2603.07478).
+
 
 ## Articles in peer-reviewed journals
 [13] E. Hannula, A. Häkkinen, F. Uribe, A. Solonen, J. de Wiljes, L. Roininen (2026): *Partially stochastic deep learning with uncertainty quantification for building thermal modeling*. Building and Environment 289, 114118, [doi](https://doi.org/10.1016/j.buildenv.2025.114118).
