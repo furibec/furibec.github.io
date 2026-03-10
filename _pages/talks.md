@@ -7,7 +7,7 @@ author_profile: true
 <hr>
 
 ## Upcoming meetings
-TBA
+ - Participant @ [CUQI Perspectives Workshop](https://sites.dtu.dk/cuqi#CourAct), Kgs. Lyngby, Denmark. *(June 9–10, 2026)*
 
 
 ## Past meetings
